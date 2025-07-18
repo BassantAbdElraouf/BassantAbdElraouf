@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Current role: Odoo Developer working on real-world ERP solutions that simplify complex workflows<br>🛠️ Tech I use: Python, PostgreSQL, XML, JavaScript, OWL, Git, and a lot of Odoo magic ✨<br>📚 I'm currently learning: Advanced Odoo customization, OWL (Odoo Web Library), and improving my backend development skills<br>🎯 Goals: Become a full-stack Odoo expert, contribute to open-source ERP projects, and build tools that make business processes smarter<br>🎲 Fun fact: Spent half a day debugging a critical issue — the villain? A missing semicolon 😅</p>
+<p align="left">💼 Current role: Odoo Developer working on real-world ERP solutions that simplify complex workflows<br>🛠️ Tech I use: Python, PostgreSQL, XML, JavaScript, OWL, Git, and a lot of Odoo magic ✨<br>📚 I'm currently learning: Advanced Odoo customization, OWL (Odoo Web Library), and improving my backend development skills<br>🎯 Goals: Become a full-stack Odoo expert and build tools that make business processes smarter<br>🎲 Fun fact: Spent half a day debugging a critical issue — the villain? A missing semicolon 😅</p>
 
 ###
 
