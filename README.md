@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is bassant abdelraouf and I'm a Software Engineer with 4 years of experience, including 2 years specializing as an Odoo Developer. Skilled in Python development, machine learning, and customizing Odoo modules to meet specific business  needs. Built innovative solutions such as Arabic Sign Language Recognition systems and smart ML models. Known for effective teamwork, solving complex problems, and delivering clean, efficient code. Seeking a challenging opportunity to grow as an Odoo expert and contribute to impactful real-world projects.</p>
+<p align="left">My name is bassant abdelraouf and I'm a Software Engineer with 4 years of experience, including 2 years specializing as an Odoo Developer. Skilled in Python development, machine learning, and customizing Odoo modules to meet specific business  needs. Built innovative solutions such as Arabic Sign Language Recognition systems and smart ML models.</p>
 
 ###
 
